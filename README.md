@@ -19,13 +19,13 @@ go install github.com/mawngo/isee@latest
 convert image
 
 ```shell
-> isee .\my-image.jpeg
+> isee gray .\my-image.jpeg
 ```
 
 or convert directory of images
 
 ```shell
-> isee .\my-dir
+> isee gray .\my-dir
 ```
 
 ### Options
