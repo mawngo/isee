@@ -2,6 +2,10 @@
 
 Generate Ascii art from image.
 
+## Deprecated
+
+Better tool for this purpose: https://github.com/qeesung/image2ascii
+
 ## Installation
 
 Require go 1.22+
