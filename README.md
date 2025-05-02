@@ -8,7 +8,7 @@ Better tool for this purpose: https://github.com/qeesung/image2ascii
 
 ## Installation
 
-Require go 1.22+
+Require go 1.24+
 
 ```shell
 go install github.com/mawngo/isee@latest
